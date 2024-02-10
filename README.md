@@ -8,3 +8,4 @@ This project performs lane detection on continuous driving scenes and approaches
 Several experiments were performed to measure the accuracy, precision, recall and F1 measure of various networks formed by a combination of different variants of ST-RNN and Encoder-Decoder modules along with SCNN module.
 # Video Demonstration
 This video was recorded on the campus of Worcester Polytechnic Institute. The results (i.e Lane Detection) are not accurate because the model was tested only after training it for 3 epochs.
+![alt text](https://github.com/DhirajRouniyar/A-Hybrid-Spatial-Temporal-Deep-Learning-Architecture-for-Lane-Detection/blob/main/Images/gitup.gif)
